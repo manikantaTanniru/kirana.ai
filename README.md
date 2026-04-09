@@ -41,7 +41,7 @@ Kirana.ai is an intelligent inventory management system that combines natural la
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/chandrapavan1104/Kirana.ai.git
+git clone https://github.com/manikantaTanniru/Kirana.ai.git
 cd Kirana.ai
 ```
 
@@ -181,4 +181,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Chandra Pavan - [@chandrapavan1104](https://github.com/manikantaTanniru/kirana.ai)
+Manikanta Tanniru - (https://github.com/manikantaTanniru/kirana.ai)
